@@ -1,0 +1,30 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "\"portafolio personal en el repositorio de presentacion de github\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Facundo-Sura/Facundo-Sura.git"
+  },
+  "keywords": [
+    "portfolio",
+    "portafolio",
+    "web-develloper",
+    "desarrollador-web",
+    "full-stack",
+    "back-end",
+    "front-end",
+    "facundo",
+    "sura"
+  ],
+  "author": "Facundo Sura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Facundo-Sura/Facundo-Sura/issues"
+  },
+  "homepage": "https://github.com/Facundo-Sura/Facundo-Sura#readme"
+}
