@@ -10,7 +10,7 @@ Actualmente, me dedico al desarrollo de aplicaciones web tanto en el frontend co
 Mi objetivo es seguir creciendo como desarrollador, adoptando nuevas tecnologías y mejorando continuamente mis habilidades. Aspiro a trabajar en proyectos desafiantes que tengan un impacto positivo y que me permitan contribuir con soluciones innovadoras.
 
 ## Las tecnologías que uso son:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+-**![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)**
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/react%20hook%20form%20-%20pr?style=for-the-badge&logo=reacthookform&logoColor=%23ffffff&labelColor=%23ea899a&color=%23ea899a)
 ![Axios](https://img.shields.io/badge/axios%20-%20pr?style=for-the-badge&logo=axios&logoColor=%23ffffff&labelColor=%234c2882&color=%234c2882)
